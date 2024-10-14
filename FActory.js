@@ -83,3 +83,6 @@ const returnRandBase = () => {
   console.log(first.mutate())
   console.log(first.willLikelySurvive()); */
   console.log(first.complementStrand());
+
+  /* This is just a test to see if I understood 
+  how to publish my codes on github form visual studio code*/
